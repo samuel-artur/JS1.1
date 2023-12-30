@@ -26,8 +26,5 @@ res.innerHTML += 'IMPOSSÍVEL CONTAR!! reinicie e repreencha os dados novamente'
   for(var c = ini; c>= fim; c-=pas){
 
   }
-}
-
-{
   }
 } res.innerHTML += `🏳️`
