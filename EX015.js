@@ -1,5 +1,6 @@
 //criar função somar que retorna a
 //soma de todos os múltiplos de 3 e 5
+// olhe um exemplo abaixo
 // 10 = 3,6,9
 // 10 = 5,10
 // 3,6,9 + 5,10 = 33
