@@ -4,7 +4,7 @@
 // 70-79 = C
 // 80-89 = B
 // 90-100 = A
-const array = [100]
+const array = [80]
 
 console.log(mediadoaluno(array))
 
