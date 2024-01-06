@@ -1,0 +1,17 @@
+// tipo primitivo
+const mensagem = 'Bom dia, Boa noite, Boa tarde'
+console.log('essa frase tem', mensagem.length)
+console.log(" ")
+console.log("aparecerá <true> se essa palavra tiver aqui, e <false> se ela não estiver ==>" , mensagem.includes('Bom dia'), "<==")
+console.log(" ")
+console.log(mensagem.startsWith('b'))
+console.log(" ")
+console.log(mensagem.endsWith('e'))
+console.log(" ")
+console.log(mensagem.indexOf("Boa"))
+console.log(" ")
+console.log(mensagem.replace("Bom", "Belo"))
+console.log(" ")
+console.log(mensagem.trim())
+console.log(" ")
+console.log(mensagem.split(' '))
